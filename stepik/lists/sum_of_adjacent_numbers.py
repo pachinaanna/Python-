@@ -16,3 +16,4 @@ if max_index != 0:
         print(result, end=' ')
 if max_index == 0:
     print(numbers[0])
+
